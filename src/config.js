@@ -1,0 +1,1 @@
+export const Config = "http://localhost:3000/";
